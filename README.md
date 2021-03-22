@@ -1,38 +1,14 @@
 # experiment-6
 
-## Project setup
+> Книга контактов - примитивное SPA приложение на Vue.js
+
+## Порядок запуска
 
 ```
-npm install
+$ npm install     # Project setup
+$ npm run json    # Start JSON Server
+$ npm run serve   # Compiles and hot-reloads for development
 ```
-
-## Start JSON Server !!!
-
-```
-npm run json
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Задание
 
